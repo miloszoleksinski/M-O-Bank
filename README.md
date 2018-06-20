@@ -1,3 +1,3 @@
-# M-O-Bank
-U can add new client/delete him, transfer/withdraw/deposit money.
-Simple basic banking system.
+# MO Bank
+Simple banking system. You can add new client/delete him, transfer/withdraw/deposit money.
+
